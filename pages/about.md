@@ -1,6 +1,7 @@
 ---
 layout: misc
-title: About
+title: Sobre mim
 ---
 
-Millennial is a minimalist Jekyll theme. The purpose of this theme is to provide a simple, clean, content-focused publishing platform for your publication site or blog. You can find everything you need to get started under documentation. For more information on how to install and use this theme, check out [the documentation]({{ site.github.url }}{% post_url 2016-10-10-getting-started %}).
+Olá! 
+Sou Ana Carolina, tenho 19 anos e estou cursando Licenciatura em Matemática na UFV (Universidade Federal de Viçosa)e sou Técnica em Estradas (CEFET MG). Através desse site, contarei um pouco sobre minha vida acadêmica.
