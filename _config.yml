@@ -1,18 +1,23 @@
-#Created by webjeda - http://webjeda.com
+# Site Build Settings
 
-title: Bheema #Keep it short
-email: your@email.com
+# jekyll-paginate configuration
+paginate:            5
 
-
-baseurl: /bheema
+# Build settings
+markdown:            kramdown
+highlighter:         rouge
+permalink:           none
+plugins:             [jekyll-paginate, jekyll-sitemap, jekyll-feed, jekyll-seo-tag]
 
 sass:
- style: compressed
- 
- 
-# Tracker
-analytics: UA-83979019-1
- 
-### exclude the instructions / write-up in the README.md
-exclude:
-- README.md
+  sass_dir: assets/css
+  style: :nested
+
+# Customise atom feed settings (this is where Jekyll-Feed gets configuration information)
+title:		           "Millennial"
+description:	       "a Jekyll theme for running a blog or publication"
+author:              "Paul Le"
+
+# RSS 2.0 can be used instead of Atom by uncommenting following two lines
+#feed:
+#  path: rss-feed.xml
