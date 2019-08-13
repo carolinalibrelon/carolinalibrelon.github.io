@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "Learning Resources"
-author: "Paul Le"
+title: "O que é Matemática?"
+author: "Ana Librelon"
 categories: facts
 tags: [documentation,sample]
 image: arctic-4.jpg
