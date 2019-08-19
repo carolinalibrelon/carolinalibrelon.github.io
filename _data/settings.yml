@@ -1,7 +1,7 @@
 # Change 'comments' to true for Disqus comments
 disqus:
   comments: false
-  disqus_shortname: 'millennial-3'
+  disqus_shortname: 'Um pouco sobre minha vida acadêmica'
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
 google-ID: 'UA-112060364-2'
@@ -9,8 +9,8 @@ google-ID: 'UA-112060364-2'
 menu:
 - {name: 'Sobre mim', folder: 'pages', file: 'facts.html'}
 - {name: 'Licenciatura em Matemática', folder: 'pages', file: 'resources.html'}
-- {name: 'Técnico em Estradas', folder: 'pages', file: 'sample-posts.html'}
-- {name: 'Documentos auxiliares', folder: 'pages', file: 'documentation.html'}
+- {name: 'A Matemática', folder: 'pages', file: 'sample-posts.html'}
+- {name: 'UFV - Campus Florestal', folder: 'pages', file: 'documentation.html'}
 - {name: 'Contato', folder: 'pages', file: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
@@ -21,9 +21,6 @@ social:
 # - {icon: 'rss-square', link: 'rss-feed.xml'}
 
 # Customize site text
-pagination:
-  next_page: 'Próxima'
-  previous_page: 'Anterior'
 
 sharing_button_prompt: 'Feel free to share!'
 
