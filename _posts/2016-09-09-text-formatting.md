@@ -10,12 +10,11 @@ image: arctic-1.jpg
 # O que é a Matemática?
 
 Ciência que estuda, por método dedutivo objetos abstratos (números, figuras, funções) e as relações existentes entre elas. Na Pedagogia: ensino dos processos, operações e propriedades  matemáticas.
-                                                                                          - Definição retirada do Dicionário do Google - 
+                                                                                      - Definição retirada do Dicionário do Google - 
  
  
  
 [...] a Matemática desempenha papel decisivo, pois permite resolver problemas da vida cotidiana, tem muitas aplicações no mundo do trabalho e funciona como instrumento essencial para a construção de conhecimentos em outras áreas curriculares. Do mesmo modo, interfere fortemente na formação de capacidades intelectuais, na estruturação do pensamento e na agilização do raciocínio dedutivo do aluno. (BRASIL, 1998, p. 12).
-
 
 
 # A Matemática é linda!
